@@ -1,4 +1,4 @@
-Re#### 1.import
+#### 1.import
 import没什么特殊的，就直接 import requests
 
 #### 2.get() 方法：
