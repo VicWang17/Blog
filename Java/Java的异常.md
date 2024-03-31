@@ -1,4 +1,9 @@
+原发布于2023.6.22
+
+--------------------------
+
 ##### java的异常
+
 · 类似python的`try-except`, Java写法是`try-catch`, catch最后还可以加`finally`, 在`catch`之后运行
 · `printStackTrace()` 可以打印异常栈
 · 一种常见的异常叫`NullPointerException`，如果访问了一个null对象可能就会报这个异常 

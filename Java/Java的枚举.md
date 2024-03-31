@@ -1,5 +1,10 @@
+原发布于2023.6.22
+
+--------------------------
+
 枚举通过关键字enum实现。
 具体做法：
+
 ```java
 public enum Color {
     RED, GREEN, BLUE;
